@@ -7,3 +7,5 @@
   <h3>Phần công việc chính<br></h3>
     <b>- Chuyển các văn bản tiếng Việt thành giọng đọc.</b><br>
     <b>- Giọng đọc ngắt đúng theo dấu câu.</b><br>
+    <b>- link demo trên youtube:</b><br>
+    <b>https://youtu.be/CBFNX-cv2s8</b><br>
